@@ -6,7 +6,7 @@ This repository accompanies the manuscript:
 
 
 > **An LLM-Based Workflow with Multimodal Capabilities for Retrieval, Extraction, and Harmonization of Life Cycle Inventory Data from Heterogeneous Literature: Application to Aquaculture**  
-> *(under review at Environmental Science & Technology)*
+> *(under review)*
 
 ---
 
